@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS893Tiers.Api", "SS893Tiers.Api\SS893Tiers.Api.csproj", "{F4758FCF-630E-43FD-B7BB-43E41CD4A87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS893Tiers.Web", "SS893Tiers.Web\SS893Tiers.Web.csproj", "{B8C649D3-2C80-4A34-BECF-9E3273DDBFA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4758FCF-630E-43FD-B7BB-43E41CD4A87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4758FCF-630E-43FD-B7BB-43E41CD4A87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4758FCF-630E-43FD-B7BB-43E41CD4A87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4758FCF-630E-43FD-B7BB-43E41CD4A87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C649D3-2C80-4A34-BECF-9E3273DDBFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C649D3-2C80-4A34-BECF-9E3273DDBFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C649D3-2C80-4A34-BECF-9E3273DDBFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C649D3-2C80-4A34-BECF-9E3273DDBFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10EF0F04-E4E7-4393-88B9-8FBB21FC1EE9}
+	EndGlobalSection
+EndGlobal

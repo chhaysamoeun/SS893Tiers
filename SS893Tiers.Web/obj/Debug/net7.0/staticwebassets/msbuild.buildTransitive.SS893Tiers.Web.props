@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/SS893Tiers.Web.props" />
+</Project>

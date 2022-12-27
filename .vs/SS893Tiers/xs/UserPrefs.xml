@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F4758FCF-630E-43FD-B7BB-43E41CD4A87D}|https">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SS893Tiers" expanded="True">
+            <Node name="SS893Tiers.Api" expanded="True" selected="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="SS893Tiers.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{F4758FCF-630E-43FD-B7BB-43E41CD4A87D}" ItemName="SS893Tiers.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{B8C649D3-2C80-4A34-BECF-9E3273DDBFA0}" ItemName="SS893Tiers.Web" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SS893Tiers.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SS893Tiers.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chhaysamoeun/Projects/SS893Tiers/SS893Tiers.Api/Controllers/EmployeeController.cs" relfile="SS893Tiers.Api/Controllers/EmployeeController.cs" line="88" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
